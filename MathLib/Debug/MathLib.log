@@ -1,0 +1,15 @@
+﻿  C:\Users\s181330\Desktop\MathLib\MathLib\AABB.h
+  C:\Users\s181330\Desktop\MathLib\MathLib\AABS.h
+  C:\Users\s181330\Desktop\MathLib\MathLib\Matrix2.h
+  C:\Users\s181330\Desktop\MathLib\MathLib\Matrix3.h
+  C:\Users\s181330\Desktop\MathLib\MathLib\Matrix4.h
+  C:\Users\s181330\Desktop\MathLib\MathLib\Vector2.h
+  C:\Users\s181330\Desktop\MathLib\MathLib\Vector3.h
+  C:\Users\s181330\Desktop\MathLib\MathLib\Vector4.h
+          8 file(s) copied.
+  AABB.cpp
+  Generating Code...
+  Compiling...
+  AABS.cpp
+  Generating Code...
+  MathLib.vcxproj -> C:\Users\s181330\Desktop\MathLib\dependencies\Debug\MathLib.lib
